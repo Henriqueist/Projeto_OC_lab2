@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/henrique/Desktop/ano_letivo_24_25/OC/Projeto_dos_labs/Projeto_OC_lab2/lab2_kit/spark",
+      "program": "/home/henrique/Desktop/ano_letivo_24_25/OC/Projeto_dos_labs/Projeto_OC_lab2/lab2_kit/spark/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
