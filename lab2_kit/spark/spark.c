@@ -46,7 +46,7 @@ int main() {
 
             size_t n_iterations = 0;
             /* ************************************************************** */
-            for (size_t repeat = 0; repeat < 100 * stride; repeat++) {
+            for (size_t repeat = 0; repeat < 10 * stride; repeat++) {
                 for (size_t index = 0; index < limit;
                      index += stride, n_iterations++) {
                     array[index] = array[index] + 1;
