@@ -1,58 +1,58 @@
-cache_size=8192	stride=1	avg_misses=0.000416	avg_time=0.002807
-cache_size=8192	stride=2	avg_misses=0.000177	avg_time=0.002796
-cache_size=8192	stride=4	avg_misses=0.000045	avg_time=0.002782
-cache_size=8192	stride=8	avg_misses=0.000029	avg_time=0.002692
-cache_size=8192	stride=16	avg_misses=0.000065	avg_time=0.002752
-cache_size=8192	stride=32	avg_misses=0.000024	avg_time=0.002624
-cache_size=8192	stride=64	avg_misses=0.000028	avg_time=0.002367
-cache_size=8192	stride=128	avg_misses=0.000009	avg_time=0.002062
-cache_size=8192	stride=256	avg_misses=0.000012	avg_time=0.002018
-cache_size=8192	stride=512	avg_misses=0.000004	avg_time=0.001986
-cache_size=8192	stride=1024	avg_misses=0.000004	avg_time=0.001957
-cache_size=8192	stride=2048	avg_misses=0.000004	avg_time=0.002071
-cache_size=8192	stride=4096	avg_misses=0.000002	avg_time=0.002078
-cache_size=16384	stride=1	avg_misses=0.000144	avg_time=0.002248
-cache_size=16384	stride=2	avg_misses=0.000057	avg_time=0.002252
-cache_size=16384	stride=4	avg_misses=0.000042	avg_time=0.002265
-cache_size=16384	stride=8	avg_misses=0.000060	avg_time=0.002214
-cache_size=16384	stride=16	avg_misses=0.000057	avg_time=0.002227
-cache_size=16384	stride=32	avg_misses=0.000051	avg_time=0.002198
-cache_size=16384	stride=64	avg_misses=0.000041	avg_time=0.002196
-cache_size=16384	stride=128	avg_misses=0.000037	avg_time=0.002162
-cache_size=16384	stride=256	avg_misses=0.000027	avg_time=0.002062
-cache_size=16384	stride=512	avg_misses=0.000013	avg_time=0.001997
-cache_size=16384	stride=1024	avg_misses=0.000002	avg_time=0.001986
-cache_size=16384	stride=2048	avg_misses=0.000002	avg_time=0.002083
-cache_size=16384	stride=4096	avg_misses=0.000005	avg_time=0.002170
-cache_size=16384	stride=8192	avg_misses=0.000003	avg_time=0.002078
-cache_size=32768	stride=1	avg_misses=0.000153	avg_time=0.002215
-cache_size=32768	stride=2	avg_misses=0.000039	avg_time=0.002203
-cache_size=32768	stride=4	avg_misses=0.000041	avg_time=0.002182
-cache_size=32768	stride=8	avg_misses=0.000036	avg_time=0.002124
-cache_size=32768	stride=16	avg_misses=0.000025	avg_time=0.002041
-cache_size=32768	stride=32	avg_misses=0.000025	avg_time=0.002051
-cache_size=32768	stride=64	avg_misses=0.000025	avg_time=0.001888
-cache_size=32768	stride=128	avg_misses=0.000046	avg_time=0.002172
-cache_size=32768	stride=256	avg_misses=0.000020	avg_time=0.002179
-cache_size=32768	stride=512	avg_misses=0.000027	avg_time=0.002061
-cache_size=32768	stride=1024	avg_misses=0.000010	avg_time=0.001998
-cache_size=32768	stride=2048	avg_misses=0.000005	avg_time=0.002047
-cache_size=32768	stride=4096	avg_misses=0.000000	avg_time=0.002188
-cache_size=32768	stride=8192	avg_misses=0.000000	avg_time=0.002181
-cache_size=32768	stride=16384	avg_misses=0.000002	avg_time=0.002078
-cache_size=65536	stride=1	avg_misses=0.000163	avg_time=0.001976
-cache_size=65536	stride=2	avg_misses=0.000062	avg_time=0.001889
-cache_size=65536	stride=4	avg_misses=0.000057	avg_time=0.002209
-cache_size=65536	stride=8	avg_misses=0.000054	avg_time=0.002205
-cache_size=65536	stride=16	avg_misses=0.000135	avg_time=0.002201
-cache_size=65536	stride=32	avg_misses=0.000044	avg_time=0.002022
-cache_size=65536	stride=64	avg_misses=0.000104	avg_time=0.001864
-cache_size=65536	stride=128	avg_misses=0.000061	avg_time=0.001910
-cache_size=65536	stride=256	avg_misses=0.000115	avg_time=0.001895
-cache_size=65536	stride=512	avg_misses=0.000679	avg_time=0.001925
-cache_size=65536	stride=1024	avg_misses=0.000028	avg_time=0.001854
-cache_size=65536	stride=2048	avg_misses=0.000158	avg_time=0.002284
-cache_size=65536	stride=4096	avg_misses=0.000021	avg_time=0.005062
-cache_size=65536	stride=8192	avg_misses=0.000006	avg_time=0.002208
-cache_size=65536	stride=16384	avg_misses=0.000003	avg_time=0.002179
-cache_size=65536	stride=32768	avg_misses=0.000001	avg_time=0.002085
+cache_size=8192	stride=1	avg_misses=0.000240	avg_time=0.003241	avg_cycles=9.725084
+cache_size=8192	stride=2	avg_misses=0.000139	avg_time=0.003449	avg_cycles=10.345839
+cache_size=8192	stride=4	avg_misses=0.000111	avg_time=0.003431	avg_cycles=10.293688
+cache_size=8192	stride=8	avg_misses=0.000084	avg_time=0.003330	avg_cycles=9.992317
+cache_size=8192	stride=16	avg_misses=0.000110	avg_time=0.003431	avg_cycles=10.292231
+cache_size=8192	stride=32	avg_misses=0.000079	avg_time=0.002998	avg_cycles=8.992060
+cache_size=8192	stride=64	avg_misses=0.000098	avg_time=0.002629	avg_cycles=7.886415
+cache_size=8192	stride=128	avg_misses=0.000034	avg_time=0.002254	avg_cycles=6.761117
+cache_size=8192	stride=256	avg_misses=0.000016	avg_time=0.002078	avg_cycles=6.234094
+cache_size=8192	stride=512	avg_misses=0.000012	avg_time=0.001996	avg_cycles=5.986866
+cache_size=8192	stride=1024	avg_misses=0.000012	avg_time=0.001946	avg_cycles=5.838127
+cache_size=8192	stride=2048	avg_misses=0.000015	avg_time=0.002021	avg_cycles=6.064342
+cache_size=8192	stride=4096	avg_misses=0.000022	avg_time=0.002126	avg_cycles=6.377172
+cache_size=16384	stride=1	avg_misses=0.000251	avg_time=0.002246	avg_cycles=6.738918
+cache_size=16384	stride=2	avg_misses=0.000216	avg_time=0.002240	avg_cycles=6.719291
+cache_size=16384	stride=4	avg_misses=0.000250	avg_time=0.002234	avg_cycles=6.701857
+cache_size=16384	stride=8	avg_misses=0.000206	avg_time=0.002156	avg_cycles=6.467248
+cache_size=16384	stride=16	avg_misses=0.000200	avg_time=0.002246	avg_cycles=6.736729
+cache_size=16384	stride=32	avg_misses=0.000281	avg_time=0.002231	avg_cycles=6.693459
+cache_size=16384	stride=64	avg_misses=0.000195	avg_time=0.002197	avg_cycles=6.590822
+cache_size=16384	stride=128	avg_misses=0.000089	avg_time=0.002179	avg_cycles=6.536261
+cache_size=16384	stride=256	avg_misses=0.000077	avg_time=0.002067	avg_cycles=6.201296
+cache_size=16384	stride=512	avg_misses=0.000029	avg_time=0.001996	avg_cycles=5.988058
+cache_size=16384	stride=1024	avg_misses=0.000013	avg_time=0.001985	avg_cycles=5.955103
+cache_size=16384	stride=2048	avg_misses=0.000016	avg_time=0.002087	avg_cycles=6.260273
+cache_size=16384	stride=4096	avg_misses=0.000013	avg_time=0.002171	avg_cycles=6.512496
+cache_size=16384	stride=8192	avg_misses=0.000009	avg_time=0.002079	avg_cycles=6.238132
+cache_size=32768	stride=1	avg_misses=0.002220	avg_time=0.002292	avg_cycles=6.874851
+cache_size=32768	stride=2	avg_misses=0.002762	avg_time=0.002295	avg_cycles=6.884806
+cache_size=32768	stride=4	avg_misses=0.004031	avg_time=0.002200	avg_cycles=6.598394
+cache_size=32768	stride=8	avg_misses=0.006345	avg_time=0.002120	avg_cycles=6.360358
+cache_size=32768	stride=16	avg_misses=0.012709	avg_time=0.002079	avg_cycles=6.237707
+cache_size=32768	stride=32	avg_misses=0.017881	avg_time=0.002246	avg_cycles=6.737806
+cache_size=32768	stride=64	avg_misses=0.014835	avg_time=0.002230	avg_cycles=6.690901
+cache_size=32768	stride=128	avg_misses=0.026410	avg_time=0.002214	avg_cycles=6.641196
+cache_size=32768	stride=256	avg_misses=0.094141	avg_time=0.002156	avg_cycles=6.467675
+cache_size=32768	stride=512	avg_misses=0.000161	avg_time=0.002063	avg_cycles=6.187523
+cache_size=32768	stride=1024	avg_misses=0.000098	avg_time=0.002001	avg_cycles=6.001987
+cache_size=32768	stride=2048	avg_misses=0.000045	avg_time=0.002049	avg_cycles=6.147894
+cache_size=32768	stride=4096	avg_misses=0.000020	avg_time=0.002188	avg_cycles=6.564713
+cache_size=32768	stride=8192	avg_misses=0.000012	avg_time=0.002171	avg_cycles=6.512871
+cache_size=32768	stride=16384	avg_misses=0.000009	avg_time=0.002080	avg_cycles=6.239471
+cache_size=65536	stride=1	avg_misses=0.015655	avg_time=0.001980	avg_cycles=5.940577
+cache_size=65536	stride=2	avg_misses=0.031291	avg_time=0.001894	avg_cycles=5.681782
+cache_size=65536	stride=4	avg_misses=0.062659	avg_time=0.002133	avg_cycles=6.398518
+cache_size=65536	stride=8	avg_misses=0.125378	avg_time=0.002250	avg_cycles=6.750360
+cache_size=65536	stride=16	avg_misses=0.250744	avg_time=0.002195	avg_cycles=6.583751
+cache_size=65536	stride=32	avg_misses=0.501478	avg_time=0.002247	avg_cycles=6.740368
+cache_size=65536	stride=64	avg_misses=1.000828	avg_time=0.001850	avg_cycles=5.548676
+cache_size=65536	stride=128	avg_misses=1.025834	avg_time=0.001881	avg_cycles=5.644547
+cache_size=65536	stride=256	avg_misses=1.035752	avg_time=0.001914	avg_cycles=5.740942
+cache_size=65536	stride=512	avg_misses=1.053477	avg_time=0.001929	avg_cycles=5.787230
+cache_size=65536	stride=1024	avg_misses=1.010653	avg_time=0.001860	avg_cycles=5.579702
+cache_size=65536	stride=2048	avg_misses=1.714535	avg_time=0.004732	avg_cycles=14.194557
+cache_size=65536	stride=4096	avg_misses=1.039242	avg_time=0.005059	avg_cycles=15.175599
+cache_size=65536	stride=8192	avg_misses=0.000025	avg_time=0.002189	avg_cycles=6.566758
+cache_size=65536	stride=16384	avg_misses=0.000011	avg_time=0.002172	avg_cycles=6.516463
+cache_size=65536	stride=32768	avg_misses=0.000006	avg_time=0.002068	avg_cycles=6.205363
