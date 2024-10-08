@@ -1,7 +1,7 @@
 TARGETS = mm1
 PAPILIB_ALAMEDA=/run/current-system/sw/lib/libpapi.so
 PAPILIB_TAGUS=/usr/local/lib/libpapi.so
-CFLAGS=-O1
+CFLAGS=-O1-g -fsanitize=undefined
 
 all: $(TARGETS)
 
