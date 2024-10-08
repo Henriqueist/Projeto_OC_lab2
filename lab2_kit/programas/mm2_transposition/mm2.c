@@ -48,6 +48,7 @@ void multiply_matrices(int16_t const factor1[N][N], int16_t const factor2[N][N],
 int main() {
     int16_t mul1[N][N];
     int16_t mul2[N][N];
+    int16_t tmp[N][N];
     int16_t res[N][N];
 
     setup(mul1, mul2, res);
