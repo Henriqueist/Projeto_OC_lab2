@@ -4,7 +4,7 @@
 #include <stdlib.h> // exit()
 #include <string.h> // memset()
 
-#define N 512
+#define N 1024
 
 void handle_error(char *outstring);
 
