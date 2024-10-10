@@ -6,11 +6,7 @@
 
 #define N 512
 #define CACHE_LINE_SIZE 64 // TODO: update this value
-
-#define SUB_MATRIX_SIZE                                                        \
-    (((CACHE_LINE_SIZE / sizeof(int16_t)) <= 0)                                \
-         ? 1                                                                   \
-         : (CACHE_LINE_SIZE / sizeof(int16_t)))
+#define SUB_MATRIX_SIZE (CACHE_LINE_SIZE / sizeof (short))
 
 void handle_error(char *outstring);
 
